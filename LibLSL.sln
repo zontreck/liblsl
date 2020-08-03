@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibLSL", "LibLSL/LibLSL.csproj", "{0BEB88B6-C51D-4C9E-8937-37B64007C0CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibLSL", "LibLSL\LibLSL.csproj", "{0BEB88B6-C51D-4C9E-8937-37B64007C0CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lsl", "lsl\lsl.csproj", "{923A652D-C504-4166-853F-E018F1496CE5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0BEB88B6-C51D-4C9E-8937-37B64007C0CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BEB88B6-C51D-4C9E-8937-37B64007C0CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BEB88B6-C51D-4C9E-8937-37B64007C0CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{923A652D-C504-4166-853F-E018F1496CE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923A652D-C504-4166-853F-E018F1496CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923A652D-C504-4166-853F-E018F1496CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923A652D-C504-4166-853F-E018F1496CE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
